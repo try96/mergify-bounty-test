@@ -1,1 +1,3 @@
 # mergify-bounty-test
+
+# Teste
